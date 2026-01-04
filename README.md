@@ -33,6 +33,10 @@ Second Scan
 <img width="2015" height="1087" alt="image" src="https://github.com/user-attachments/assets/d39db441-b4d4-47e3-9f02-80367954ec19" />
 
 
+## Security Monitoring (Splunk)
+<img width="1508" height="1155" alt="image" src="https://github.com/user-attachments/assets/c42e41bc-86bd-4710-a237-f0061bbd8fba" />
+
+
 ## 🛡️ Methodology & Validation
 Validated the architecture by performing:
 1. **Nessus Scans:** Identified and remediated vulnerabilities.
