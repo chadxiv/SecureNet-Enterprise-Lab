@@ -2,7 +2,8 @@
 A comprehensive enterprise security lab focused on defense-in-depth, centralized monitoring, and automated patch management.
 
 ## Network Architecture
-![Network Diagram.png](images/topology.png)
+![Network Diagram.png](images
+/Network Diagram.png)
 
 ## 🛠️ Tech Stack
 * **Firewall/Routing:** pfSense (Network Segmentation & VLANs)
