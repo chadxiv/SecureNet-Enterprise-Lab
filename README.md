@@ -2,7 +2,7 @@
 A comprehensive enterprise security lab focused on defense-in-depth, centralized monitoring, and automated patch management.
 
 ## Network Architecture
-![[Network Diagram.png]]
+![Network Diagram.png](images/topology.png)
 
 ## 🛠️ Tech Stack
 * **Firewall/Routing:** pfSense (Network Segmentation & VLANs)
@@ -23,9 +23,9 @@ This project simulates a corporate environment with segmented networks (DMZ, LAN
 
 ## Vulnerability Management: 
 I used Nessus to identify critical SSL/TLS weaknesses and verified their remediation after hardening the DMZ servers.
-![[Scan1_Vulnerabilities.png]]
+![First Scan](images/2_Security Control Evidences/Control #7/Scan1_Vulnerabilities.png)
 
-![[Scan2_Reduced Vulnerabilities.png]]
+![Second Scan](images/2_Security Control Evidences/Control #7/Scan2_Reduced Vulnerabilities.png)
 
 ## 🛡️ Methodology & Validation
 Validated the architecture by performing:
