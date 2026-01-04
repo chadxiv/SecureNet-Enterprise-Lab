@@ -23,6 +23,7 @@ This project simulates a corporate environment with segmented networks (DMZ, LAN
 
 ## Vulnerability Management: 
 I used Nessus to identify critical SSL/TLS weaknesses and verified their remediation after hardening the DMZ servers.
+
 ![First Scan](images/2_Security Control Evidences/Control #7/Scan1_Vulnerabilities.png)  
 
 ![Second Scan](images/2_Security Control Evidences/Control #7/Scan2_Reduced Vulnerabilities.png)
