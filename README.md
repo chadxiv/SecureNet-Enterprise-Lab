@@ -1,6 +1,9 @@
 # SecureNet: Layered Defense Architecture
 A comprehensive enterprise security lab focused on defense-in-depth, centralized monitoring, and automated patch management.
 
+## Network Architecture
+![[Network Diagram.png]]
+
 ## 🛠️ Tech Stack
 * **Firewall/Routing:** pfSense (Network Segmentation & VLANs)
 * **SIEM/Monitoring:** Splunk (Centralized Log Analysis)
@@ -17,6 +20,12 @@ This project simulates a corporate environment with segmented networks (DMZ, LAN
 - **Automated Security:** Implemented Ansible playbooks for automated Linux patching.
 - **Centralized Logging:** Configured Splunk to ingest logs from pfSense and Windows endpoints for real-time alerting.
 - **Hardening:** Applied security benchmarks to Windows and Ubuntu systems to reduce the attack surface.
+
+## Vulnerability Management: 
+I used Nessus to identify critical SSL/TLS weaknesses and verified their remediation after hardening the DMZ servers.
+![[Scan1_Vulnerabilities.png]]
+
+![[Scan2_Reduced Vulnerabilities.png]]
 
 ## 🛡️ Methodology & Validation
 Validated the architecture by performing:
