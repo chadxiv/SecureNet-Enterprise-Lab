@@ -1,6 +1,8 @@
 # SecureNet: Layered Defense Architecture
 A comprehensive enterprise security lab focused on defense-in-depth, centralized monitoring, and automated patch management.
 
+Full Documentation: https://drive.google.com/file/d/1UFZ8Pn_fkohTLei0fSHhfgHSBzk_rHez/view?usp=sharing
+
 **Project Impact:** Shifted to an open-source security stack, achieving an 85% risk reduction (exceeding commercial estimates) and exponentially improving ROI through automation.
 
 ## Network Architecture
